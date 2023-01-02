@@ -1,0 +1,16 @@
+/* img[title ^='p']  ( give first letter of  TiTle)   */
+/* img[title ^='a'] */
+img[title="banana"]
+{
+    border: 5px solid palevioletred;
+
+}
+.textin[placeholder="name"]
+{
+    border: 2px solid green;
+    border-radius: 20px;
+    /* width: 70px; */
+    /* height: 90px; */
+}
+
+
